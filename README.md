@@ -5,6 +5,8 @@ Neste curso é ensinado como contribuir com projetos de código aberto.
 
 Link do curso [Python Pro](https://www.python.pro
 
+[![Build Status](https://travis-ci.org/libpythonprg/libpythonjlp.svg?branch=master)](https://travis-ci.org/libpythonprg/libpythonjlp)
+
 Suportada versão 3 de Python
 
 Para instalar:

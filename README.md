@@ -7,6 +7,10 @@ Link do curso [Python Pro](https://www.python.pro
 
 [![Build Status](https://travis-ci.org/libpythonprg/libpythonjlp.svg?branch=master)](https://travis-ci.org/libpythonprg/libpythonjlp)
 
+[![Updates](https://pyup.io/repos/github/jlplautz/libpythonjlp/shield.svg)](https://pyup.io/repos/github/jlplautz/libpythonjlp/)
+
+[![Python 3](https://pyup.io/repos/github/jlplautz/libpythonjlp/python-3-shield.svg)](https://pyup.io/repos/github/jlplautz/libpythonjlp/)
+
 Suportada versão 3 de Python
 
 Para instalar:

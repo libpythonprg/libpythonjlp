@@ -1,9 +1,9 @@
-# libpythonjlp
+# libpythonprg
 Modulo para exemplificar construção de projetos Python para curso Pythontools
 
 Neste curso é ensinado como contribuir com projetos de código aberto.
 
-Link do curso [Python Pro](https://www.python.pro
+Link do curso [Python Pro](https://www.python.pro)
 
 [![Build Status](https://travis-ci.org/libpythonprg/libpythonjlp.svg?branch=master)](https://travis-ci.org/libpythonprg/libpythonjlp)
 
